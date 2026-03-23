@@ -137,3 +137,6 @@ traceroute api.miapp.com
 
 # 🐄 Router vs Switch vs Hub (Explicado con Vacas)
 
+<p align="center">
+  <img src="https://github.com/MiskTake/Router-Switch-y-Hub/blob/329751e9dbbb92833a6d5858b8e435de2b390f4c/vacas.jpg" alt="descripcion" width="1000"/>
+</p>
